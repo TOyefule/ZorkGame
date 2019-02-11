@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21e9ff7b-1377-486a-8abb-adf63c87e0e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Zork/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Movies_ArrayLists/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Pig Die Game/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Randoms Letters/.idea/vcs.xml" afterDir="false" />
@@ -20,6 +10,8 @@
       <change afterPath="$PROJECT_DIR$/../../Week2ChallengeChipotleJr++/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Week2Challenge_ChipotleJr/.idea/dictionaries/UPennGrad.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Week2Challenge_ChipotleJr/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PseudoCode1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PseudoCode1.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,24 +26,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+            <state relative-caret-position="79">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#foyer#0;class#Main#0" />
                 <element signature="e#687#1150#1" />
+                <element signature="method#frontroom#0;class#Main#0" />
                 <element signature="e#1383#2238#1" />
+                <element signature="method#library#0;class#Main#0" />
+                <element signature="e#2656#3418#1" />
                 <element signature="e#3281#3316#1" />
                 <element signature="method#kitchen#0;class#Main#0" />
                 <element signature="e#3043#3759#1" />
                 <element signature="method#dining_room#0;class#Main#0" />
                 <element signature="e#4366#5128#1" />
-                <element signature="method#vault#0;class#Main#0" />
                 <element signature="e#4757#5462#1" />
-                <element signature="method#parlor#0;class#Main#0" />
-                <element signature="e#5783#6541#1" />
-                <element signature="method#secret_room#0;class#Main#0" />
-                <element signature="e#6625#7228#1" />
-                <element signature="method#exit#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -88,6 +78,8 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -98,9 +90,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="1103" />
-    <option name="width" value="1428" />
+    <option name="x" value="274" />
+    <option name="y" value="1121" />
+    <option name="width" value="1439" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -185,30 +177,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549638517430</updated>
-      <workItem from="1549638519039" duration="11249000" />
+      <workItem from="1549638519039" duration="13257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11249000" />
+    <option name="totallyTimeSpent" value="13257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="274" y="1103" width="1439" height="877" extended-state="6" />
+    <frame x="273" y="1103" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1424481" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1423462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" sideWeight="0.4996421" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3923567" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003579" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45882353" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45859873" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -254,24 +248,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+        <state relative-caret-position="79">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#foyer#0;class#Main#0" />
             <element signature="e#687#1150#1" />
+            <element signature="method#frontroom#0;class#Main#0" />
             <element signature="e#1383#2238#1" />
+            <element signature="method#library#0;class#Main#0" />
+            <element signature="e#2656#3418#1" />
             <element signature="e#3281#3316#1" />
             <element signature="method#kitchen#0;class#Main#0" />
             <element signature="e#3043#3759#1" />
             <element signature="method#dining_room#0;class#Main#0" />
             <element signature="e#4366#5128#1" />
-            <element signature="method#vault#0;class#Main#0" />
             <element signature="e#4757#5462#1" />
-            <element signature="method#parlor#0;class#Main#0" />
-            <element signature="e#5783#6541#1" />
-            <element signature="method#secret_room#0;class#Main#0" />
-            <element signature="e#6625#7228#1" />
-            <element signature="method#exit#0;class#Main#0" />
           </folding>
         </state>
       </provider>

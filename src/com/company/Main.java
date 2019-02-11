@@ -10,9 +10,29 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("!-------------------------------!");
         System.out.println("!*******************************!");
+        System.out.println("!*******************************!");
+        System.out.println("!*******************************!");
         System.out.println("!*****WELCOME TO THE PROGRAM****!");
         System.out.println("!*******************************!");
+        System.out.println("!*******************************!");
+        System.out.println("!*******************************!");
         System.out.println("!-------------------------------!");
+                         /*  ___________________________________
+                          * |          |           |     8      |
+                          * |          |           | Secret Rm) |
+                          * |    5     |     6     |_____  _____|
+                          * |(dinning) |  (Vault)  |     7      |
+                          * |          |           | (Parlor)   |
+                          * |_____ ____|___________|_____  _____|
+                          * |          |           |            |
+                          * |    3     |     2     |     4      |
+                          * |(Library) | (Front Rm)| (Kitchen)  |
+                          * |__________|_____ _____|____________|
+                          *            |           |
+                          *            |     1     |
+                          *            |  (Foyer)  |
+                          *            |_____ _____|
+            */
         foyer();
 
     }
